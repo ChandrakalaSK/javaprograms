@@ -1,0 +1,5 @@
+package com.ineuron.entity;
+
+public class Product {
+
+}
